@@ -4,6 +4,16 @@ A full-stack healthcare web application inspired by Apollo Hospitals. Built usin
 
 ---
 
+## 📸 Screenshots
+
+### 🧑‍⚕️ Doctor Listing Page
+![Doctor Listing](./screenshots/doctor-listing.png)
+
+### ➕ Add Doctor (Admin Panel)
+![Add Doctor](./screenshots/add-doctor.png)
+
+---
+
 ## 🔗 Local URLs
 
 - **Doctor List Page**: [http://localhost:3000/](http://localhost:3000/)
@@ -19,16 +29,6 @@ A full-stack healthcare web application inspired by Apollo Hospitals. Built usin
 - 🎨 **Responsive Design**: Clean, modern UI built with Tailwind CSS
 - 💾 **Database Integration**: MongoDB database with Mongoose ODM
 - 🏥 **Professional Interface**: Healthcare-focused design inspired by Apollo Hospitals
-
----
-
-## 📸 Screenshots
-
-### 🧑‍⚕️ Doctor Listing Page
-![Doctor Listing](./screenshots/doctor-listing.png)
-
-### ➕ Add Doctor (Admin Panel)
-![Add Doctor](./screenshots/add-doctor.png)
 
 ---
 
@@ -86,6 +86,9 @@ Apollo-Clone/
 │   ├── placeholder-doctor.png       # Doctor placeholder image
 │   ├── vercel.svg
 │   └── window.svg
+├── screenshots/                     # Application screenshots
+│   ├── doctor-listing.png          # Doctor listing page screenshot
+│   └── add-doctor.png              # Add doctor page screenshot
 ├── src/
 │   ├── app/
 │   │   ├── admin/
@@ -174,4 +177,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the Next.js and MongoDB communities
 
 ---
-
