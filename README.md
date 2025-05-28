@@ -7,10 +7,10 @@ A full-stack healthcare web application inspired by Apollo Hospitals. Built usin
 ## 📸 Screenshots
 
 ### 🧑‍⚕️ Doctor Listing Page
-![Doctor Listing](./screenshots/doctor-listing.png)
+![Doctor Listing](apollo-clone/screenshots/doctor-listing.png)
 
 ### ➕ Add Doctor (Admin Panel)
-![Add Doctor](./screenshots/add-doctor.png)
+![Add Doctor](apollo-clone/screenshots/add-doctor.png)
 
 ---
 
